@@ -118,4 +118,8 @@ dashboardView4.setStripeHighlightColorAndRange(highlight3);
     <enum name="outer" value="2"/>
 </attr>
 <attr name="bgColor" format="color"/> <!--背景颜色-->
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 0c9c82f6057173ae18cc04a287df737c61ef0de4
