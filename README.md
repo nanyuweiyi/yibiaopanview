@@ -1,7 +1,3 @@
-##Screenshot
-![img](https://github.com/woxingxiao/DashboardViewDemo/blob/master/screenshot/Screenshot5.png)
-![img](https://github.com/woxingxiao/DashboardViewDemo/blob/master/screenshot/Screenshot6.gif)
-
 ##Usage
 >1
 
@@ -123,7 +119,3 @@ dashboardView4.setStripeHighlightColorAndRange(highlight3);
 </attr>
 <attr name="bgColor" format="color"/> <!--背景颜色-->
 ```
-##codes
-###[DashboardView.java](https://github.com/woxingxiao/DashboardViewDemo/blob/master/app/src/main/java/com/xw/example/dashboardviewdemo/DashboardView.java)
-###[HighlightCR.java](https://github.com/woxingxiao/DashboardViewDemo/blob/master/app/src/main/java/com/xw/example/dashboardviewdemo/HighlightCR.java)
-###[attrs.xml](https://github.com/woxingxiao/DashboardViewDemo/blob/master/app/src/main/res/values/attrs.xml)
